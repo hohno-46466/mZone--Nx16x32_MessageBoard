@@ -1,6 +1,6 @@
 # GitHub/mZone--Nx16x32_MessageBoard--demo1
 
-     ./mZone--Nx16x32_MessageBoard--demo1
+    ./mZone--Nx16x32_MessageBoard--demo1
      ├──  README.md
      ├──  README.md.old
      ├──  Scripts/
